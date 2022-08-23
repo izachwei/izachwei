@@ -1,4 +1,4 @@
-### Hi I'm Zach 😄, welcome to my github
+### Hi I'm Zach
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=xixiWj.xixiWj)
 
 - 🌱 I’m currently learning ...
