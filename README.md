@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi I'm Zach 😄, welcome to my github
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=xixiWj.xixiWj)
 
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: [zachweijian@gmail.com](zachweijian@gmail.com)
+
+![Star's github stats](https://github-readme-stats.vercel.app/api?username=xixiWj&show_icons=true)
 <!--
 **xixiWj/xixiWj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
