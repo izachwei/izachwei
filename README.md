@@ -1,4 +1,5 @@
 ### Hi I'm Zach
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=xixiWj.xixiWj)
 
 - 🌱 I’m currently learning ...
