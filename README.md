@@ -1,12 +1,12 @@
 ### Hi I'm Zach
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=xixiWj.xixiWj)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=izachwei.izachwei)
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: [zachweijian@gmail.com](zachweijian@gmail.com)
 
-![Star's github stats](https://github-readme-stats.vercel.app/api?username=xixiWj&show_icons=true)
+![Star's github stats](https://github-readme-stats.vercel.app/api?username=izachwei&show_icons=true)
 <!--
-**xixiWj/xixiWj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**izachwei/izachwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
