@@ -1,6 +1,6 @@
 ### Hi I'm Zach
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=izachwei.izachwei)
-
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: [zachweijian@gmail.com](zachweijian@gmail.com)
 
